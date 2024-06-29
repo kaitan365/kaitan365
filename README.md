@@ -5,7 +5,7 @@
 🌱 My research interests lie at the intersection of Statistics and Machine Learning. Recently, I have developed a keen interest in Generative AI and its broad applications across diverse domains.
 
 Feel free to explore my repositories and projects. 
-My personal website is [here](kaitan365.github.io).
+My personal website is [here](https://kaitan365.github.io/).
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/kaitan365/).
 
 Cheers! 🚀
